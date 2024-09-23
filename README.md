@@ -1,3 +1,12 @@
+<h1>КАК ЗАПУСТИТЬ:</h1>
+<ul>
+  <li>.env.example переименовываем в .env и меняем конфигурацию</li>
+  <li>Конфиг прописываем на базу postgresql</li>
+  <li>Меняем main.ts конфиг CORS в случае необходимости</li>
+  <li>Интерфейся для базы данных нет, поэтому для работы с бд используем DBeaver или подобное</li>
+</ul>
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
